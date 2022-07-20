@@ -1,6 +1,7 @@
 # HTML이란?
 
 HTML(HyperText Markup Language)로 프로그래밍 언어는 아니지만, 우리가 눈으로 보는 웹페이지가 어떻게 구조화되어 있는지를 표현하는 마크업 언어이다. HTML은 elements로 구성되어 있다.  
+<br>
 
 ## HTML elements의 구성
 
@@ -10,7 +11,7 @@ HTML(HyperText Markup Language)로 프로그래밍 언어는 아니지만, 우�
 1. 여는 태그(Opening tag): 요소의 이름과, 열고 닫는 꺽쇠 괄호로 구성된다. 이때, 닫는 태그와 함께 효과가 적용될 범위를 지정한다.
 2. 닫는 태그(Closing tag): 요소의 이름 앞에 슬래쉬를 이용해 여는 태그와 쌍을 이루게 된다.
 3. 내용(Content): 요소의 내용이다.
-
+<br>
 
 ## HTML의 기본구조
 
@@ -27,6 +28,7 @@ HTML(HyperText Markup Language)로 프로그래밍 언어는 아니지만, 우�
 
 ___
 위와 같이 ```<!DOCTYPE HTML>, <html>```은 HTML5를 사용함을 브라우저에 선언하기 위함이다. 실질적으로 보여지는 부분은 ```<body>``` tag내에 작성하게 된다.  
+<br>
 
 # HTML 기본태그
 
@@ -45,6 +47,7 @@ ___
 ___
 
 이 외에도 text formatting이나 여러가지 태그들이 존재하지만 이는 아래의 참조된 홈페이지를 참고하자.  
+<br>
 
 # HTML 공간 배치
 
@@ -86,6 +89,7 @@ HTML의 tag들은 두가지 형태의 속성을 가지고 웹브라우저에 출
 ### HTML input
 
 위와 마찬가지로 다양한 타입의 input tag들이 존재하고 이는 사용 시에 아래의 참조 URL을 참고한다.  
+<br>
 
 # 참조
 위키독스의 HTML 참고  
