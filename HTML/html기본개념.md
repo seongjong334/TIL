@@ -62,6 +62,7 @@ HTML의 tag들은 두가지 형태의 속성을 가지고 웹브라우저에 출
 
 * 인라인(inline) 형태
 ```<span></span>``` tag를 사용한다.  
+<br>
 
 # HTML 입력
 
